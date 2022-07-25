@@ -31,6 +31,9 @@ gem 'jbuilder', '2.5.0'
 # Use Twitter Bootstrap
 gem 'bootstrap-sass', '3.3.7'
 
+# Use Font Awesome Sass gem
+gem "font-awesome-sass", "~> 6.1.1"
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3', '1.3.13'
